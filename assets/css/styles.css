@@ -33,6 +33,55 @@ body {
     background-color: var(--bg-primary);
 }
 
+/* Navigation */
+nav {
+    background-color: var(--accent-2); /* Dunkles Blaugrau als Hintergrund */
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Schatten für visuelle Tiefe */
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: var(--bg-primary); /* Weißer Text */
+    text-decoration: none;
+    padding: 15px 20px;
+    display: block;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover-Effekt */
+nav ul li a:hover {
+    background-color: var(--link-hover); /* Hover-Hintergrund in hellem Blau */
+    color: var(--bg-secondary); /* Textfarbe beim Hover wird weiß */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column; /* Navigation wird auf kleinen Bildschirmen vertikal */
+    }
+    
+    nav ul li {
+        margin: 10px 0;
+    }
+}
+
 /* Überschriften */
 h1, h2, h3, h4 {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -130,15 +179,6 @@ pre, .math-block {
     border-radius: 4px;
     border: 1px solid var(--subtle-border);
     font-family: "Courier New", Courier, monospace;
-}
-
-/* Mathematische Blockdarstellung */
-.math-block {
-    display: block;
-    font-size: 1em;
-    margin: 1.5em 0;
-    padding: 1em;
-    border-left: 3px solid var(--accent-2);
 }
 
 /* Horizontale Linie */
