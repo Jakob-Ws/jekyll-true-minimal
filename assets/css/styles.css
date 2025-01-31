@@ -6,4 +6,10 @@ body {
     font-size: 18px;
     line-height: 1.6;
 }
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem 0;
+    border-bottom: 2px solid #ccc;
+}
 
