@@ -2,6 +2,8 @@
 layout: default
 title: About
 ---
-# About page
+# Über mich
 
-This page tells you a little bit about me.
+Mein Name ist Jakob, 
+
+auf dieser Website sammele ich all mein Wissen über Mathematik und Physik, in der Hoffnung, dass ich damit Leuten helfen kann.
