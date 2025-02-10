@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Die Unendlichkeit der Primzahlen - Der Beweis nach Euklid"
-date:   2024-11-12
-author: "Jakob"
+title: Die Unendlichkeit der Primzahlen - Der Beweis nach Euklid
+date: 2024-11-12
+author: Jakob
+permalink: /primzahlen/
 ---
 
 Es sei angenommen, dass die Menge der Primzahlen $\mathbb{P}$
