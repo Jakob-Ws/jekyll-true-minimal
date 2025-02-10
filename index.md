@@ -2,4 +2,4 @@
 layout: default
 title: home
 ---
-# {{ \"Hello World!\" \| downcase }} 
+# Schön das du da bist! 
