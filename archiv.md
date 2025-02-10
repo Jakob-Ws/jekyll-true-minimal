@@ -1,5 +1,7 @@
-\-\-- layout: default title: Archiv \-\--
-
+---
+layout: default 
+title: Archiv 
+---
 # Archiv
 
 -   {% for post in site.posts %}
