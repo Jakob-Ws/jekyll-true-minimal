@@ -12,3 +12,6 @@ title: home
     </li>
   {% endfor %}
 </ul>
+## Lehrmaterial
+Materialien, welche ich für meine Tutorien nutze.
+- [[gdm|Grundlagen der Mathematik]]
