@@ -1,6 +1,5 @@
---- 
-layout: default 
-title: Home ---
-
-# {{ \"Hello World!\" \| downcase }}
-{} 
+---
+layout: default
+title: home
+---
+# {{ \"Hello World!\" \| downcase }} 
