@@ -15,4 +15,4 @@ title: home
 ## Lehrmaterial
 Materialien, welche ich für meine Tutorien nutze.
 - [Grundlagen der Mathematik](http://homvw.de/gdm/)
-- 
+
