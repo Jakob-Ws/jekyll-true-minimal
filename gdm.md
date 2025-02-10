@@ -1,7 +1,6 @@
 ---
 layout: post
-title: GdM
+title: Grundlagen der Mathematik
 permalink: /gdm/
 ---
-
-
+/
