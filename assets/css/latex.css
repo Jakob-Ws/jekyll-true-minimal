@@ -104,7 +104,7 @@ dl dd {
     font-style: italic;
 }
 .theorem:before {
- content: "Theorem " counter(theorem) ".";
+ content: "Satz " counter(theorem) ".";
      font-weight: bold;
     font-style: normal;
 }
@@ -125,7 +125,7 @@ dl dd {
     font-style: normal;
 }
 .proof:before {
-    content: "Proof.";
+    content: "Beweis.";
     font-style: italic;
 }
 .proof:after {
