@@ -97,14 +97,14 @@ dl dd {
 }
 
 
-.theorem {
-	 counter-increment: theorem;
+.satz {
+	 counter-increment: satz;
     display: block;
     margin: 12px 0;
     font-style: italic;
 }
-.theorem:before {
- content: "Satz " counter(theorem) ".";
+.satz:before {
+ content: "Satz " counter(satz) ".";
      font-weight: bold;
     font-style: normal;
 }
