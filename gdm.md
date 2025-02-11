@@ -2,6 +2,8 @@
 layout: post
 title: Grundlagen der Mathematik
 permalink: /gdm/
+author: Jakob
+date: 2025-02-11
 ---
 # Das Summen- bzw. Produktzeichen
 <div class="definition">
