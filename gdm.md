@@ -3,6 +3,7 @@ layout: post
 title: Grundlagen der Mathematik
 permalink: /gdm/
 ---
+# Das Summen- bzw. Produktzeichen
 <div class="definition">
 1.  Summenzeichen $$\begin{aligned}
     				\sum_{k=1}^5 a(k)
