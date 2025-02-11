@@ -29,7 +29,7 @@ In diesem Abschnitt werden zunächst Summen- und Produktzeichen eingeführt, wel
     			
     \end{aligned}$$
     </div>
-<div class="theorem">
+<div class="aufgabe">
 Berechnen Sie folgende Summen: $$\begin{aligned}
 				\sum_{k=1}^{3}&(k+2k)\\ 
 				\sum_{j=1}^{5}&(\pi\cdot j^{2}) \\
