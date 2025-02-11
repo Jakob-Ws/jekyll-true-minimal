@@ -112,7 +112,7 @@ dl dd {
 	 counter-increment: aufgabe;
     display: block;
     margin: 12px 0;
-    font-style: italic;
+    font-style: normal;
 }
 .aufgabe:before {
 	content: "Aufgabe " counter(aufgabe) ".";
